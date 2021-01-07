@@ -47,7 +47,7 @@ if (
 // Catch any bad requests
 app.get("*", (req, res) => {
   res.status(200).json({
-    msg: "Catch All",
+    msg: "His!",
   });
 });
 

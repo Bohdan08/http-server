@@ -1,0 +1,9 @@
+.custom-nav-link {
+  color: #000;
+  font-size: 1.2rem;
+}
+
+.custom-nav-link:hover {
+  color: #000;
+  font-weight: 600;
+}
